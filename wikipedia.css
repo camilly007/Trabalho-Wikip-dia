@@ -1,0 +1,152 @@
+.font_titulo_index{
+    font-family: "Montserrat";
+}
+
+body{
+    background-color: #EFEFEF;
+}
+
+.logo_wikipedia{
+    width: 180px;
+    height: 80px;
+    margin-left: 3rem;
+}
+
+.wordwiki{
+    height: 320px;
+    width: 820px;
+    margin-left: 20%;
+    margin-right: auto;
+}
+
+
+
+.titulo_wiki{
+    margin-top: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.titulo2_wiki{
+    margin-top: 8rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.titulo1_index{
+    width: 30%;
+    height: 40px;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 35%;
+    margin-right: 30%;
+}
+.titulo2_index{
+    width: 30%;
+    height: 40px;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 40%;
+    margin-right: 30%;
+}
+
+.textos_topicos_index{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 6rem;
+}
+
+.topicos_index{
+    width: 320px;
+    height: 10px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 3rem;
+}
+
+.texto_topico{
+    width: 1290px;
+    height: 30px;
+    text-indent: 2rem;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.pagina_piece{
+    height: auto;
+    width: auto;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+    background-color: #FFFFFF;
+}
+
+.titulo_maior{
+    height: 20px;
+    width: 420px;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.tabela{
+    margin-left: 70px;
+    margin-right: 1000px;
+    font-size: 40px;
+    border: 1px solid;
+    padding: 50px;
+    text-align: left;
+}
+    
+
+h2{
+    margin-left: 70px;
+    margin-right: 1000px;
+    font-size: 40px;
+    background-color: #70c3ff;
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+}
+
+.h1{
+    margin-left: 70px;
+    margin-right: 1000px;
+    margin-top: 60px;
+    font-size: 40px; 
+}
+
+h3{margin-left: 70px;
+    margin-right: 1000px;
+    margin-top: 60px;
+    font-size: 40px; 
+}
+
+li{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: "Montserrat";
+}
+
+ul{
+    font-size: 30px;
+}
+
+.texto{
+    height: 140px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: light;
+}
+
+.topicos{
+    width: 320px;
+    height: 10px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 3rem;
+}
