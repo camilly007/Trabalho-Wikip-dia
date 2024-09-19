@@ -5,6 +5,9 @@
 body{
     background-color: #EFEFEF;
 }
+p{
+    text-indent: 1.5rem;
+}
 
 .logo_wikipedia{
     width: 180px;
